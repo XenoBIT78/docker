@@ -1,4 +1,4 @@
 #!/bin/bash
-curl -sS https://github.com/XenoBIT78/docker/blob/main/Traefik/docker-compose.yml
+curl -O docker-compose.yml https://github.com/XenoBIT78/docker/blob/main/Traefik/docker-compose.yml
 curl -sS https://github.com/XenoBIT78/docker/blob/main/Traefik/.env
 echo "done downloading files"
