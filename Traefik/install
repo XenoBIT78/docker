@@ -1,1 +1,2 @@
-echo "This is a test"
+#!/bin/bash
+curl https://github.com/XenoBIT78/docker/blob/main/Traefik/docker-compose.yml
